@@ -1,0 +1,8 @@
+SoftwareTesting\pageObjects\ProductCatalogue.class
+SoftwareTesting\pageObjects\ConformPage.class
+SoftwareTesting\pageObjects\CheckOutPage.class
+SoftwareTesting\pageObjects\OrdersPage.class
+SoftwareTesting\pageObjects\LandingPage.class
+SoftwareTesting\pageObjects\CartPage.class
+SoftwareTesting\AbstrectComponents\AbstrectCompanents.class
+SoftwareTesting\Resources\ExtentReporterNG.class
